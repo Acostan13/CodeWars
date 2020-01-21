@@ -1,4 +1,6 @@
 function practice (){
 //making some more changes
-//hello there
+for(i=0; i>3; i++) {
+    console.log('hello')
+}
 }
