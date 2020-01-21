@@ -1,5 +1,9 @@
 function practice (){
 //making some more changes
-if(i=0; i>3; i++)
-
+for(i=0; i>3; i++) {
+    console.log('hello');
+    if(x%5===0){
+        console.log("Hello!")
+    }
+}
 }
