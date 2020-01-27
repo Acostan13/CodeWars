@@ -5,5 +5,8 @@ for(i=0; i>3; i++) {
     if(x%5===0){
         console.log("Hello!")
     }
+    else {
+        console.log('Hey there')
+    }
 }
 }
