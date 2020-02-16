@@ -1,3 +1,7 @@
+# CodeWars JavaScript Solutions
+
+---
+
 ## Pandemia
 
 
@@ -43,9 +47,13 @@ percentage = 100*11/15 = 73.33333333333333
 ➕ For maps without "0" and "1" return 0 as there is no population.
 
 
+---
+
+
 ### Solution
 
 
+```JavaScript
 infected = (s) => {
     //declaring global variables
     let total =0; //total countries
@@ -82,3 +90,13 @@ infected("01X000X010X011XX")
 infected("000000010")
 infected("XXXXX")
 infected("X00X000000X10X0100")
+
+```
+
+
+---
+
+
+[See on CodeWars.com](https://www.codewars.com/kata/5e2596a9ad937f002e510435)
+
+
