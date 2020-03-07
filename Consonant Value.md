@@ -33,7 +33,4 @@ solve = (s) => Math.max(... // finds the max value of an array
 ```
 
 ---
-
-
-
 [See on CodeWars.com](https://www.codewars.com/kata/59c633e7dcc4053512000073/)
